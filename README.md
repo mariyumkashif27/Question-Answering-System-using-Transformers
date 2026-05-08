@@ -1,4 +1,3 @@
-# Question-Answering-System-using-Transformers
 # Question Answering System using Transformers
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aDL346Xhg9weffGON3lsMDl5BWQw5nV-?usp=sharing)
 
